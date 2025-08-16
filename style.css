@@ -82,7 +82,7 @@ button:hover {
   transform: scale(1.05);
 }
 
-/* 📱 Адаптив для телефонов */
+
 @media (max-width: 600px) {
   h1 {
     font-size: 1.8em;
